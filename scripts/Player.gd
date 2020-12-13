@@ -3,7 +3,7 @@ extends KinematicBody2D
 
 var movespeed = 500
 var bullet_speed= 2000
-var bullet = preload("res://objects/Bullet.tscn")
+var bullet = preload("res://objects/bullet.tscn")
 
 func _ready():
 	pass # Replace with function body.
